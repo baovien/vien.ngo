@@ -5,5 +5,5 @@ import { defineConfig } from "vite";
 export default defineConfig({
   plugins: [react()],
   assetsInclude: ["**.*.jpg", "**/*.otf", "**/*.png"],
-  base: "/vien.ngo/",
+  base: "/",
 });
